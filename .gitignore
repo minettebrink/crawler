@@ -5,6 +5,7 @@ crawler
 *.dll
 *.so
 *.dylib
+*.DS
 
 # Test binary, built with `go test -c`
 *.test
